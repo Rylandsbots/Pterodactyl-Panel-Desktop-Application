@@ -38,7 +38,4 @@ Follow these steps to install Pterodactyl Desktop:
 
 If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/your-repo/issues](https://github.com/Rylandsbots/Pterodactyl-Panel-Desktop-Application/issues)).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
