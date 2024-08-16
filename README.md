@@ -15,7 +15,7 @@ Pterodactyl Desktop is a user-friendly application that allows you to manage you
 Follow these steps to install Pterodactyl Desktop:
 
 1. **Download the Installer:**
-   - Download the `Pterodactyl-Desktop.exe` file from the [Releases](https://github.com/Rylandsbots/Pterodactyl-Panel-Desktop-Application/releases) section.
+   - Download the `Pterodactyl-Desktop.exe` file from the https://github.com/Rylandsbots/Pterodactyl-Panel-Desktop-Application section.
 
 2. **Run the Installer:**
    - Open the downloaded application file and select "Only For Me" when prompted.
@@ -36,6 +36,6 @@ Follow these steps to install Pterodactyl Desktop:
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/your-repo/issues](https://github.com/Rylandsbots/Pterodactyl-Panel-Desktop-Application/issues)).
+If you encounter any issues or have questions, please open an issue on the https://github.com/Rylandsbots/Pterodactyl-Panel-Desktop-Application/issues.
 
 
